@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+form{
+    margin: 0 auto;
+    width: 200px;
+}
+ol{
+    width: 200px;
+    margin: 0 auto;
+}
+#cus{
+    display: none;
+}
+#resetAll{
+    display: none;
+}
